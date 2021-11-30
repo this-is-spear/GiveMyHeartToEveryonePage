@@ -1,6 +1,12 @@
 # GiveMyHeartToEveryonePage
 > Spear의 GiveMyHeartToEveryone
 
+스크롤을 많이 내려야 보입니다...😢(아직 개발중)  
+   
+[GiveMyHeartToEveryonePage](https://imaspear.github.io/GiveMyHeartToEveryonePage/)   
+   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fimaspear.github.io%2FGiveMyHeartToEveryonePage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=html5.svg&icon_color=%23E80000&title=page-site&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 즐거운 일은 함께 공유하자
 요즘 축하, 위로, 격려하는 마음들을 단순한 문자로 담기에는 모자라다 생각해 만들었다. 특히나 코로나로 인해 비대면으로 변하는 문화로 인해 더욱더 마음을 전하기 어려워졌습니다.
 
