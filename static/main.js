@@ -1,4 +1,6 @@
-(() => {
+window.addEventListener('DOMContentLoaded', function()
+{
+    // func();
 	const stepElems = document.querySelectorAll('.step');
 	const graphicElems = document.querySelectorAll('.graphic-item');
 	let currentItem = graphicElems[0];
@@ -53,4 +55,8 @@
 
 	activate();
 
-})();
+});
+
+// (() => {
+
+// })();
