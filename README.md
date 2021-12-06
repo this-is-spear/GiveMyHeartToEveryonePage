@@ -1,8 +1,6 @@
 # GiveMyHeartToEveryonePage
 > Spear의 GiveMyHeartToEveryone
 
-스크롤을 많이 내려야 보입니다...😢(아직 개발중)  
-   
 [GiveMyHeartToEveryonePage](https://imaspear.github.io/GiveMyHeartToEveryonePage/)   
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fimaspear.github.io%2FGiveMyHeartToEveryonePage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=html5.svg&icon_color=%23E80000&title=page-site&edge_flat=false)](https://hits.seeyoufarm.com)
