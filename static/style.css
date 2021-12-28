@@ -7,6 +7,11 @@ body {
 div, section, header, footer, p, h1, h2 {
 	box-sizing: border-box;
 }
+
+h1{
+	font-size: 3rem;
+}
+
 a {
 	color: royalblue;
 }
@@ -15,7 +20,7 @@ img {
 	height: auto;
 }
 .global-width {
-	max-width: 620px;
+	max-width: 600px;
 	margin: 0 auto;
 	padding: 0 1rem;
 }
@@ -23,7 +28,6 @@ img {
 	overflow: hidden;
 	position: sticky;
 	top: 0;
-	/* height: 50vh; */
 	height: 100vh;
 }
 .graphic-item {
